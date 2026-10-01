@@ -1,0 +1,8 @@
+[{
+  "modid": "waypoints",
+  "name": "Waypoints",
+  "description": "5 tactical waypoints.",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "authorList": ["you"]
+}]
